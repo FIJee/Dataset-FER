@@ -23,7 +23,7 @@ Visualisasi berikut menjelaskan bagaimana kategori dataset awal dipetakan ke dal
 ALUR PENYEDERHANAAN KELAS & DISTRIBUSI DATA
 ===========================================
 
-[Kategori Dataset]           [Label Akhir]          [Output Model]           [Model .h5]                   [Model.tlite]
+[Kategori Dataset]           [Label Akhir]          [Output Model]           [Model .h5]                   [Model.tflite]
                                 
 Senyum Sedang --------┐                             ┌───────────┐
                       ├───────> SENYUM  ───────────>│   TRAIN   │
